@@ -19,7 +19,7 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/BigData95/biblioteca-personal/pull/2) in [BigData95/biblioteca-personal](https://github.com/BigData95/biblioteca-personal)
-2. 🎉 Merged PR [#2](https://github.com/BigData95/bigdata95.github.io/pull/2) in [BigData95/bigdata95.github.io](https://github.com/BigData95/bigdata95.github.io)
-3. 🎉 Merged PR [#1](https://github.com/BigData95/bigdata95.github.io/pull/1) in [BigData95/bigdata95.github.io](https://github.com/BigData95/bigdata95.github.io)
+1. ❌ Closed PR [#3](https://github.com/BigData95/biblioteca-personal/pull/3) in [BigData95/biblioteca-personal](https://github.com/BigData95/biblioteca-personal)
+2. 🎉 Merged PR [#2](https://github.com/BigData95/biblioteca-personal/pull/2) in [BigData95/biblioteca-personal](https://github.com/BigData95/biblioteca-personal)
+3. 🎉 Merged PR [#2](https://github.com/BigData95/bigdata95.github.io/pull/2) in [BigData95/bigdata95.github.io](https://github.com/BigData95/bigdata95.github.io)
 <!--END_SECTION:activity-->

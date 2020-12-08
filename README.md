@@ -4,7 +4,7 @@
 
 
 ### I'm a Computer scientist, software developer, and tech enthusiast.
-- :telescope: My current personal projects is a web app for your [personal library management](https://github.com/BigData95/biblioteca-personal)
+- :telescope:My current personal projects is a full-stack web app with Python and react to share your music with your friends in a fun way via [Spotify](https://github.com/BigData95/share_music)
 - :notebook_with_decorative_cover: I'm currently learning Web Scraping and continuously improving my skills on [Platzi](https://platzi.com/@BigData96/)
 - :computer: Available for projects opportunities
 - :seedling: Next goal:  Contribute to open source projects

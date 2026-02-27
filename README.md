@@ -1,6 +1,4 @@
 ### Hi! I'm Ivan.  :wave:
- [![website](https://img.shields.io/website?label=My%20Website&style=flat-square&url=http%3A%2F%2Fivan-vargas.me%2F)](http://ivan-vargas.me/) 
- [![Twitter](https://img.shields.io/twitter/url?color=1DA1F2&label=%40FlakeyNavi&logo=Twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fflakeynavi)](https://twitter.com/flakeynavi)
 
 
 ### I'm a Computer scientist, software developer, and tech enthusiast.
